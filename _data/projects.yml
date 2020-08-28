@@ -1,14 +1,13 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
+ 
+- project: AIMS-Shopfloor
+  role: design, publising,  frontend 
   duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
+  description: 금형업체별 가공기 상태 실시간 모니터링 프로그램 입니다. 어떤 nc프로그램이 돌아가고 있는지, 현재 가공기 상태가 알림인지 정보를 알 수 있습니다. 모니터링페이지 외에 가동률집계데이터, 이벤트집계, nc가동내역집계 기능등이 있습니다.   
+  summary: Write about your core competencies 
+ 
 - project: Springfield Community Outreach Group
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
