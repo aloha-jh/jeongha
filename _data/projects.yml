@@ -1,38 +1,121 @@
- 
-#shopfloor
+  #shopfloor
 - project: AIMS-Shopfloor
   role: Adaptive & Intelligent Manufacturing Solution
   duration: 
   description: 금형업체의 가공기상태를 실시간으로 확인할수 있는 모니터링프로그램 입니다. 어떤 nc프로그램이 돌아가고 있는지, 현재 가공기 상태가 알림인지 정보를 알 수 있습니다. 모니터링페이지 외에 가동률집계데이터, 이벤트집계, nc가동내역집계 기능등이 있습니다.   
   summary: 
   img:
-  
-#shopfloor
+  skills: 
+
 - project:  
-  role: UI/UX 리뉴얼
+  role: ● UI/UX 리뉴얼
   duration: 2017.05 
   description: 
   summary: <ul class="resume-item-list"><li>불필요한 bootstrap을 걷어내고 웹표준 마크업을 사용하여 하드코딩으로 구현하였습니다.</li> <li>반응형으로 제작되었으며 그래프를 제외한 나머지 기능은 플러그인 없이 구현되었습니다.</li> <li>디자인, 프론트엔드100%</li></ul>
   img: <img src="./images/sf_01.png"/><img src="./images/sf_06.jpeg"/> <img src="./images/sf_before.jpg" /><img src="./images/sf_after.jpg" />  
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>d3.js</span><span>.net</span> 
 
 - project:  
-  role: 맵 페이지, 가공기 배치기능 추가 (기능 추가)
+  role: ● 맵 페이지, 가공기 배치기능 추가 (기능 추가)
   duration: 2018
   description: 100개가 넘는 가공기를 한눈에 보고싶다는 요청 그리고 해당가공기를 실제 현장과 같은 위치의 화면에서 보여주는게 목적이였습니다. 클릭했을때 UI의 크기조절 및 배치기능을 하는 페이지를 만들게 되었습니다
   summary: <ul class="resume-item-list"><li>jqueryUI를 사용해 여러대의 가공기를 드래그앤 드랍하여 가공기배치가 가능합니다.</li><li>ajax요청으로 RESTAPI 데이터를받아 작업하였습니다.</li><li>디자인, 프론트엔드100%</li></ul>
-  img: <img src="./images/sf_b.jpg"/> 
-
+  img: <img src="./images/sf_b.jpg"/>  
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>.net</span><span>asp</span>
 
 - project:  
-  role: 메인 옵션창 추가 (부가기능 추가)
+  role: ● 메인 옵션창 추가 (부가기능 추가)
   duration: 2018
   description: 메인화면의 가공기상태 확인페이지에서 가공기의 세부정보 (피드,rpm등)를 사용자가 선택해서 선택된항목만 화면에 노출시켜주는 기능을 추가하였습니다.
   summary: <ul class="resume-item-list"><li>asp 템플릿 repeaterM를 만들어 추가, ascx.cs에서 만든 db를 repeaterM과 데이터바인딩하였습니다.</li><li>C#에서 js로 인자값 넘겨서 실행시켜주기 위해 c#의 ClientScriptManager를 사용하였습니다.</li></ul>
   img: <img src="./images/sf_add.jpg"/> 
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>.net</span><span>asp</span><span>c#</span>
 
+  #########
+- project: 
+  role:   
+  duration: 
+  description: <br/><br/>
+  summary: 
+  img: 
+  skills:
+
+  #AIMS-Office
 - project: AIMS-Office
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash;  
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
-  summary: UI/UX 리뉴얼1  <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  role:  
+  duration: 
+  description: 금형업체를 대상으로 한 스마트오피스, MES(Manufacturing Execution System) 생산관리시스템 프로그램입니다. 업체마다 특성이 달라서 각 업체별로 필요한기능을 커스터마이징해서 개발하게 된 프로젝트 입니다.
+  summary: 
+  img: 
+  skills:
+- project:   
+  role: ● saewoung
+  duration: 2016.10 
+  description:  
+  summary: <ul class="resume-item-list"><li>설명.</li></ul>
+  img: <img src="./images/dashboard.jpg"/> 
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span> <span>.net</span><span>asp</span><span>c#</span>
+
+- project:   
+  role: ● handoc
+  duration: 2017
+  description:  
+  summary: <ul class="resume-item-list"><li>설명.</li></ul>
+  img: <img src="./images/bom_3.png"/>  
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>django</span><span>swagger</span>
+  
+  #########
+- project: 
+  role:   
+  duration: 
+  description: <br/><br/>
+  summary: 
+  img: 
+  skills:
+  #HD-Scheduler
+- project: HD-Scheduler
+  role:  ● 금형 스케줄관리 back officce프로그램, SAP 입니다.
+  duration: 2019
+  description: 
+  summary: <ul class="resume-item-list"><li>사용자간의 알림의 경우 핸드폰에 slack앱을 설치하여 slackAPI연동을 통해 스케줄완료를 클릭할경우 사용자가 설정해놓은 팀 또는 해당스케줄의 참여자들에게 알림이 가게 구현되었습니다</li><li>slack web api를 사용하여 결제승인을 서면으로 받지 않고 사장이 승인을 한 경우 바로 중간관리자가 확인할수 있는 기능을 추가하였습니다.</li><li>이미업로드되어 있는 파일을 관리자가 스케줄에 등록하여 나머지 사람들은해당 스케줄에 연관된 파일을 볼수 있는 기능등이 있습니다.</li></ul>
+  img: <img src="./images/Scheduler.jpg"/>  
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>pycharm</span><span>django</span><span>slack-API</span>
+  
+  #########
+- project: 
+  role:   
+  duration: 
+  description: <br/><br/>
+  summary: 
+  img: 
+  skills: 
+- project: Study & Portfolio
+  role:   
+  duration: 
+  description: 공부 및 포트폴리오를 위해 만든 사이트 입니다.
+  summary: 
+  img: 
+  skills: 
+- project:  
+  role: ● Round bird
+  duration: 2020.6-현재
+  description: 일상 사진, 글을 공유하는 SNS web application, SPA입니다.
+  summary: <ul class="resume-item-list"><li>React를 적용하여 virtualDOM을 사용함으로써 app의 성능 향상시킨 SPA 구현</li><li>React의 Component형식의 UI구성으로 재사용성과 유지보수 향상</li><li>React-redux, redux-saga로 비동기API요청처리와 효율적인 중앙 state 관리</li><li>SSR을 위한 frontend-server Next.js 적용</li><li>Next.js의 자동 코드 스플리팅 적용으로 빠른 페이지 로드</li><li>SSR을 통해초기렌더링 딜레이 단축</li><li>frontend-server와 backend-server를 나눠서 개발함으로써 DB확장성 증가</li><li>babel을 사용하여 crossbrowsing 문제를 해결</li><li>request, response과정에서 express의 웹 취약성으로부터 헤더보안설정을 위해 helmet사용함으로써 보안성 향상</li><ul>
+  img:   
+  skills: <span>ES6</span><span>JSX</span><span>react</span><span>react-redux</span><span>redux-saga</span><span>webpack</span><span>babel</span><span>nextjs</span><span>express</span><span>material-ui</span><span>nodemon</span><span>sequelize</span><span>mysql</span><span>npm</span><span>axios</span><span>bcrypt</span><span>cors</span><span>dotenv</span><span>express-session</span><span>cookie-parser</span><span>morgan</span><span>multer</span><span>passport</span>
+
+- project:  
+  role: ● spring mvc shop
+  duration: 2020.3-2020.6
+  description: 프론트엔드포지션 이더라도 api가 어떻게 만들어지는지, 서버는 요청을 어떻게 처리하는지에 대해 알아야할 필요성을 느껴 학원을 다니며 java언어를 배우게 되었습니다.
+  summary: <ul class="resume-item-list"><li> </li><ul>
+  img:   
+  skills: <span>AOP</span><span>EL</span>
+
+- project:  
+  role: ● fly asina
+  duration: 2015.11-2016.2
+  description: 포트폴리오용으로 만든 디자이너에서 UI개발로 첫발돋음한 사이트
+  summary: <ul class="resume-item-list"><li>웹접근성을 준수한 마크업</li><li>반응형을 고려한 홈페이지-PC외에도 tablet, mobile 등 다양한 기기별로 정보전달에 용의하게 하기위해 유동성있게 콘텐츠들을 제작</li><li>플러그인에 의존하지 않는 자바스크립트 구현능력</li><ul>
   img:
+  skills:

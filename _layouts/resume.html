@@ -5,6 +5,14 @@
   <style>
     .img-wrap{}
     img{ width:50%;}
+    .skills-wrap{ margin-bottom:50px;}
+    .skills-wrap span{display: inline-block;
+    border: 1px solid #3d68e0;
+    border-radius: 13px;
+    color: #0830a0;
+    padding: 1px 6px;
+    margin: 2px;
+    line-height: 19px;}
   </style>
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
@@ -85,7 +93,7 @@
           <p class="resume-item-copy">{{ project.description }}</p> 
           {%if project.img%}<div class="img-wrap"> {{project.img}} <div>{%else%} {%endif%}
           <p class="resume-item-copy">{{ project.summary }}</p>
-  
+          {%if project.skills%}<p class="skills-wrap"> {{project.skills}} </p> {%else%} {%endif%}
  
         </div>
         {% endfor %}
