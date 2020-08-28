@@ -1,15 +1,16 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
  
 - project: AIMS-Shopfloor
   role: design, publising,  frontend 
-  duration: 2012 &mdash; Present
+  duration: 2016.2 2
   # url: "#"
-  description: 금형업체별 가공기 상태 실시간 모니터링 프로그램 입니다. 어떤 nc프로그램이 돌아가고 있는지, 현재 가공기 상태가 알림인지 정보를 알 수 있습니다. 모니터링페이지 외에 가동률집계데이터, 이벤트집계, nc가동내역집계 기능등이 있습니다.   
-  summary: Write about your core competencies 
- 
+  description: 금형업체의 가공기상태를 실시간으로 확인할수 있는 모니터링프로그램 입니다. 어떤 nc프로그램이 돌아가고 있는지, 현재 가공기 상태가 알림인지 정보를 알 수 있습니다. 모니터링페이지 외에 가동률집계데이터, 이벤트집계, nc가동내역집계 기능등이 있습니다.   
+  summary: <div style="margin-bottom:30px">UI/UX 리뉴얼 <ul class="resume-item-list"><li>불필요한 bootstrap을 걷어내고 웹표준 마크업을 사용하여 하드코딩으로 구현하였습니다.</li> <li>반응형으로 제작되었으며 그래프를 제외한 나머지 기능은 플러그인 없이 구현되었습니다.</li> <li>디자인, 프론트엔드100%</li></ul><img style="width:50%" src="./images/sf_01.jpeg"/></div>   <div style="margin-bottom:30px">변수설정창 추가(부가기능추가)<ul class="resume-item-list">   <li>메인화면의 가공기상태 확인페이지에서 가공기의 세부정보 (피드,rpm등)를 사용자가 선택해서 선택된항목만 화면에 노출시켜주는 기능을 추가하였습니다.</li>   <li>asp 템플릿 repeaterM를 만들어 추가, ascx.cs에서 만든 db를 repeaterM과 데이터바인딩하였습니다.</li><li>C#에서 js로 인자값 넘겨서 실행시켜주기 위해 c#의 ClientScriptManager를 사용하였습니다.</li></ul></div>  <div style="margin-bottom:30px">가공기맵페이지,가공기배치기능 추가(기능 추가)<ul class="resume-item-list">   <li>100개가 넘는 가공기를 한눈에 보고싶다는 요청 그리고 해당가공기를 실제 현장과 같은 위치의 화면에서 보여주는게 목적이였습니다. 클릭했을때 UI의 크기조절 및 배치기능을 하는 페이지를 만들게 되었습니다</li>   <li>jquery drag and drop으로 가공기의 배치가 가능합니다</li><li>ajax요청으로 RESTAPI 데이터를받아 작업하였습니다.</li><li>디자인, 프론트엔드100%</li></ul></div> 
+
+
+  
 - project: Springfield Community Outreach Group
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  summary: UI/UX 리뉴얼1  <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
