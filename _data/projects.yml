@@ -13,7 +13,7 @@
   description: 
   summary: <ul class="resume-item-list"><li>불필요한 bootstrap을 걷어내고 웹표준 마크업을 사용하여 하드코딩으로 구현하였습니다.</li> <li>반응형으로 제작되었으며 그래프를 제외한 나머지 기능은 플러그인 없이 구현되었습니다.</li> <li>디자인, 프론트엔드100%</li></ul>
   img: <img src="./images/sf_01.png"/><img src="./images/sf_06.jpeg"/> <img src="./images/sf_before.jpg" /><img src="./images/sf_after.jpg" />  
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>d3.js</span><span>.net</span> 
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>d3.js</span><span>.net</span><span>asp</span> 
 
 - project:  
   role: ● 맵 페이지, 가공기 배치기능 추가 (기능 추가)
@@ -54,7 +54,7 @@
   description:  
   summary: <ul class="resume-item-list"><li>설명.</li></ul>
   img: <img src="./images/dashboard.jpg"/> 
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span> <span>.net</span><span>asp</span><span>c#</span>
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span> <span>.net</span><span>asp</span> 
 
 - project:   
   role: ● handoc
@@ -62,7 +62,7 @@
   description:  
   summary: <ul class="resume-item-list"><li>설명.</li></ul>
   img: <img src="./images/bom_3.png"/>  
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>django</span><span>swagger</span>
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>django</span><span>swagger</span><span>python</span>
   
   #########
 - project: 
@@ -79,7 +79,7 @@
   description: 
   summary: <ul class="resume-item-list"><li>사용자간의 알림의 경우 핸드폰에 slack앱을 설치하여 slackAPI연동을 통해 스케줄완료를 클릭할경우 사용자가 설정해놓은 팀 또는 해당스케줄의 참여자들에게 알림이 가게 구현되었습니다</li><li>slack web api를 사용하여 결제승인을 서면으로 받지 않고 사장이 승인을 한 경우 바로 중간관리자가 확인할수 있는 기능을 추가하였습니다.</li><li>이미업로드되어 있는 파일을 관리자가 스케줄에 등록하여 나머지 사람들은해당 스케줄에 연관된 파일을 볼수 있는 기능등이 있습니다.</li></ul>
   img: <img src="./images/Scheduler.jpg"/>  
-  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>pycharm</span><span>django</span><span>slack-API</span>
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>pycharm</span><span>django</span><span>slack-API</span><span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
   
   #########
 - project: 
@@ -110,7 +110,7 @@
   description: 프론트엔드포지션 이더라도 api가 어떻게 만들어지는지, 서버는 요청을 어떻게 처리하는지에 대해 알아야할 필요성을 느껴 학원을 다니며 java언어를 배우게 되었습니다.
   summary: <ul class="resume-item-list"><li> </li><ul>
   img:   
-  skills: <span>AOP</span><span>EL</span>
+  skills: <span>html/css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>ES6</span><span>java</span><span>JSTL</span><span>spring</span><span>Annotation</span><span>AOP</span><span>EL</span><span>Oracle</span><span>mybatis</span><span>REST-API</span><span>REST-server</span>
 
 - project:  
   role: ● fly asina
