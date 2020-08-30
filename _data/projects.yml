@@ -52,18 +52,20 @@
   role: ● saewoung
   duration: 2016.10 
   description:  
-  summary: <ul class="resume-item-list"><li>디자인, 프론트엔드개발100%</li></ul>
-  img: <img src="./images/dashboard.jpg"/> 
+  summary: <ul class="resume-item-list"><li>디자인, 프론트엔드개발100%</li><li><a href="https://drive.google.com/file/d/1jQb8GT6Wef5YR9SF_2NqcRjmrdWlQWzr/view?usp=sharing" target="_black">사용자 메뉴얼</a></li></ul>
+  img: <img src="./images/dashboard.jpg"/><img src="./images/cost.png"/> 
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>D3.js</span><span>ajax</span> <span>django</span><span>swagger</span><span>python</span>
 
 - project:   
   role: ● handoc
   duration: 2017
   description: 금형및 수주정보, 금형제작일정표, 설계일정표, BOM,생산CAPA관리, 비용계획표, 기준정보관리 페이지로 이루어져 있습니다. #금형및 수주정보페이지에서 데이터를 입력하여 의뢰받은 금형정보를 입력합니다. 제작일정표 페이지에서는 제작일정을 작업자들끼리 공유함으로써, 다음 금형작업자가 일정을 잡습니다.
-  summary: <ul class="resume-item-list"><li>생산capa 페이지의 frontend작업을 맡아, ajax를 호출하여 받은 데이터를 변환과정을 거쳐 화면에 넣어주는 작업을 처리하였습니다.</li><li>화면 디자인, 퍼블리싱, 프론트엔드 작업(생산CAPA관리, 기준정보관리) 100%</li> </ul>
-  img: <img src="./images/bom_3.png"/><img src="./images/handoc_1.png"/>
+  summary: <ul class="resume-item-list"><li>생산capa 페이지의 frontend작업을 맡아, ajax를 호출하여 받은 데이터를 변환과정을 거쳐 화면에 넣어주는 작업을 처리하였습니다.</li><li>화면 디자인, 퍼블리싱, 프론트엔드 작업(생산CAPA관리, 기준정보관리) 100%</li><li><a href="https://drive.google.com/file/d/1A0Hja5biLPcfF8kAx5wpeUbxW5HQKTs7/view?usp=sharing" target="_black">기획안</a></li> </ul>
+  img: <img src="./images/bom_3.png"/><img src="./images/handoc_1.png"/><img src="./images/info_after.png"/><img src="./images/capa.png"/>
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>django</span><span>swagger</span><span>python</span>
-  
+  #<img src="./images/info_before.png"/>
+
+
 - project:   
   role: ● package
   duration: 2017
@@ -94,8 +96,8 @@
   role:  ● 스케줄러 - Mobile
   duration: 2019
   description: 
-  summary: <ul class="resume-item-list"><li></li></ul>
-  img: #<img src="./images/Scheduler.jpg"/>  
+  summary: <ul class="resume-item-list"><li>화면구성, 디자인, 프론트엔드개발 100%</li></ul>
+  img: <img src="./images/grey4.jpg"/>  
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>django</span><span>slack-API</span><span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
   
 
@@ -121,7 +123,7 @@
   duration: 2020.6-현재
   description: 일상 사진, 글을 공유하는 SNS web application, SPA입니다.
   summary: <ul class="resume-item-list"><li>React를 적용하여 virtualDOM을 사용함으로써 app의 성능 향상시킨 SPA 구현</li><li>React의 Component형식의 UI구성으로 재사용성과 유지보수 향상</li><li>React-redux, redux-saga로 비동기API요청처리와 효율적인 중앙 state 관리</li><li>SSR을 위한 frontend-server Next.js 적용</li><li>Next.js의 자동 코드 스플리팅 적용으로 빠른 페이지 로드</li><li>SSR을 통해초기렌더링 딜레이 단축</li><li>frontend-server와 backend-server를 나눠서 개발함으로써 DB확장성 증가</li><li>babel을 사용하여 crossbrowsing 문제를 해결</li><li>request, response과정에서 express의 웹 취약성으로부터 헤더보안설정을 위해 helmet사용함으로써 보안성 향상</li><li>사용패키지-material-ui, nodemon, axios, bcrypt, cors, dotenv, express-session, cookie-parser, morgan, multer, passport</li></ul>
-  img:   
+  img:  <img src="./images/round_bd_db.png"/>  
   url: https://github.com/aloha-jh/round-bird
   skills: <span>ES6</span><span>JSX</span><span>react</span><span>react-redux</span><span>redux-saga</span><span>webpack</span><span>babel</span><span>nextjs</span><span>express</span><span>sequelize</span><span>mysql</span><span>npm</span>
 # <span>ES6</span><span>JSX</span><span>react</span><span>react-redux</span><span>redux-saga</span><span>webpack</span><span>babel</span><span>nextjs</span><span>express</span><span>material-ui</span><span>nodemon</span><span>sequelize</span><span>mysql</span><span>npm</span><span>axios</span><span>bcrypt</span><span>cors</span><span>dotenv</span><span>express-session</span><span>cookie-parser</span><span>morgan</span><span>multer</span><span>passport</span>
@@ -131,7 +133,7 @@
   role: ● spring mvc shop
   duration: 2020.3-2020.6
   description: 
-  summary: <ul class="resume-item-list"><li>REST-server</li><li> js Lint통한 테스트 자동화</li><li>mybatis를 통해 SQL문을 XML로 관리</li></ul>
+  summary: <ul class="resume-item-list"><li>spring AOP를 이용한 선언적 transaction 처리 </li><li>Presentation-logic과 business logic을 분리하여 개발</li><li>jsLint통한 테스트 자동화</li><li>mybatis를 통해 SQL문을 XML로 관리</li></ul>
   img:   
   skills: <span>html/css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>ES6</span><span>java</span><span>JSTL</span><span>spring</span><span>Annotation</span><span>AOP</span><span>EL</span><span>Oracle</span><span>mybatis</span><span>REST-API</span><span>REST-server</span>
 
@@ -145,3 +147,21 @@
 
 
  
+
+- project: Presentation
+  role:   
+  duration: 
+  description:  
+  summary: 
+  img: 
+  skills: 
+    
+- project:  
+  role: ● Google Cloud Platform
+  duration:  
+  description: Google Cloud Platform 참석후 정보 전달을 위해 만들었습니다.
+  summary: <ul class="resume-item-list"><li><a href="https://drive.google.com/file/d/1EovRjJUjB_A9lt3UWTnp2L8_ujlNQo6c/view?usp=sharing" target="_black">GCP</li></ul>
+  img:   
+  url: https://github.com/aloha-jh/round-bird
+  skills: 
+
