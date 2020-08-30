@@ -1,12 +1,4 @@
-# Skills
-# Organizational leadership
-- skill: Orgdfsdational l123
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+ 
+- skill:  
+  description:  <li>주 사용 언어는 javascript 입니다.</li><li>HTML, CSS의 웹표준과 웹 접근성을 준수하며 개발할 수 있습니다.</li><li>jQuery를 사용하여 플러그인없이 UI/UX 인터렉션 구현에 능숙합니다.</li><li>OOP를 이해하고 Java 언어를 사용할 수 있습니다.</li><li>react hooks, redux, redux-saga를 사용하여 개발할 수 있습니다.</li><li>node.js express 또는 next를 이해하고 사용할 수 있습니다.</li><li>django, .net, spring 다양한 프레임워크에서 프론트엔드 개발 경험이 있습니다.</li>
+ 
