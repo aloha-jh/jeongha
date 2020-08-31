@@ -2,7 +2,7 @@
 - project: AIMS-Shopfloor
   role: Adaptive & Intelligent Manufacturing Solution
   duration: 
-  description: 금형업체의 가공기상태를 실시간으로 확인할수 있는 모니터링프로그램 입니다. 어떤 nc프로그램이 돌아가고 있는지, 현재 가공기 상태가 알림인지 정보를 알 수 있습니다. 모니터링페이지 외에 가동률집계데이터, 이벤트집계, nc가동내역집계 기능등이 있습니다.<br/><br/>
+  description: 금형업체의 가공기상태를 실시간으로 확인할수 있는 모니터링프로그램 입니다. 어떤 nc프로그램이 돌아가고 있는지, 현재 가공기 상태가 알림인지 정보를 알 수 있습니다. 모니터링페이지 외에 가동률집계데이터, 이벤트집계, nc가동내역집계 기능등이 있습니다.
   summary: 
   img: <img src="./images/sf_01.png"/><img src="./images/sf_06.jpeg"/><br/><br/>
   skills: 
@@ -11,7 +11,7 @@
   role: ● UI/UX 리뉴얼
   duration: 2017.05 
   description: 
-  summary: <ul class="resume-item-list"><li>불필요한 bootstrap을 걷어내고 웹표준 마크업을 사용하여 하드코딩으로 구현하였습니다.</li> <li>pc, tablet, mobile 반응형으로 제작되었으며 그래프를 제외한 나머지 기능은 플러그인 없이 구현되었습니다.</li> <li>화면 디자인, 프론트엔드100%</li></ul>
+  summary: <ul class="resume-item-list"><li>시각적으로 불필요한 애니메이션이들어간 메인navigation을 수정함으로써 UI개선</li><li>불필요한 bootstrap을 걷어내고 웹표준 마크업을 사용하여 필요한 코드만 사용해서 구현함으로써 로딩속도 증가 및 사용성 개선</li><li>pc, tablet, mobile 반응형으로 제작되었으며 그래프를 제외한 나머지 기능은 플러그인 없이 구현되었습니다.</li> <li>화면 디자인, 프론트엔드100%</li></ul>
   img: <img src="./images/sf_before.jpg" /><img src="./images/sf_after.jpg" />  
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>media-query</span><span>d3.js</span><span>.net</span><span>asp</span> 
 
@@ -30,6 +30,16 @@
   summary: <ul class="resume-item-list"><li>asp 템플릿 repeaterM를 만들어 추가, ascx.cs에서 만든 db를 repeaterM과 데이터바인딩</li><li>첫 화면 렌더링시 C#에서 js로 데이터 받아서 실행시켜주기 위해 ClientScriptManager를 사용</li></ul>
   img: <img src="./images/sf_add.jpg"/> 
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>.net</span><span>asp</span><span>c#</span>
+
+
+- project:  
+  role: ● 기타(유지보수, 기능개선, 버그수정)
+  duration: 2018, 2019
+  description: 
+  summary: <ul class="resume-item-list"><li>해당 프록시저 Databats Query문 수정</li></ul>
+  img:  
+  skills:  
+
 
   #########
 - project: 
@@ -59,8 +69,8 @@
 - project:   
   role: ● handoc
   duration: 2017
-  description: 금형및 수주정보, 금형제작일정표, 설계일정표, BOM, 생산CAPA관리, 비용계획표, 기준정보관리 페이지로 이루어져 있습니다. #금형및 수주정보페이지에서 데이터를 입력하여 의뢰받은 금형정보를 입력합니다. 제작일정표 페이지에서는 제작일정을 작업자들끼리 공유함으로써, 다음 금형작업자가 일정을 잡습니다.
-  summary: <ul class="resume-item-list"><li>생산capa 페이지의 frontend작업을 맡아, ajax를 호출하여 받은 데이터를 변환과정을 거쳐 화면에 넣어주는 작업을 처리하였습니다.</li><li>화면 디자인, 퍼블리싱, 프론트엔드 작업(생산CAPA관리, 기준정보관리) 100%</li><li>생산capa페이지의 경우 일자별로 계획기관과 실적기관이 일치하는지 계산하여 각 셀에 색상표시</li><li><a href="https://drive.google.com/file/d/1A0Hja5biLPcfF8kAx5wpeUbxW5HQKTs7/view?usp=sharing" target="_black">기획안</a></li> </ul>
+  description: 금형및 수주정보, 금형제작일정표, 설계일정표, BOM, 생산CAPA관리, 비용계획표, 기준정보관리 페이지로 이루어져 있습니다. <br/>금형및 수주정보페이지에서 데이터를 입력하여 의뢰받은 금형정보를 입력합니다. 제작일정표 페이지에서는 제작일정을 작업자들끼리 공유함으로써, 다음 금형작업자가 일정을 잡습니다.
+  summary: <ul class="resume-item-list"><li>생산capa 페이지의 frontend작업을 맡아, ajax를 호출하여 받은 데이터를 변환과정을 거쳐 화면에 넣어주는 작업을 처리하였습니다.</li><li>화면 디자인, 퍼블리싱, 프론트엔드 작업(생산CAPA관리, 기준정보관리) 100%</li><li>생산capa페이지의 경우 일자별로 계획기관과 실적기관이 일치하는지 계산하여 각 셀에 색상표시</li><li>성능측정 및 분석으로 렌더링과정 개선, 로딩시간 단축 및 최적화</li><li><a href="https://drive.google.com/file/d/1A0Hja5biLPcfF8kAx5wpeUbxW5HQKTs7/view?usp=sharing" target="_black">기획안</a></li> </ul>
   img: <img src="./images/bom_3.png"/><img src="./images/handoc_1.png"/><img src="./images/info_after.png"/><img src="./images/capa.png"/>
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>django</span><span>swagger</span><span>python</span>
   #<img src="./images/info_before.png"/>
@@ -133,15 +143,15 @@
 - project:  
   role: ● spring mvc shop
   duration: 2020.3-2020.6
-  description: 
-  summary: <ul class="resume-item-list"><li>spring AOP를 이용한 선언적 transaction 처리 </li><li>Presentation-logic과 business logic을 분리하여 개발</li><li>jsLint통한 테스트 자동화</li><li>mybatis를 통해 SQL문을 XML로 관리</li></ul>
+  description: spring framework를 사용, MVC패턴이 적용된 상품등록 및 주문 하는 쇼핑몰 web application 입니다.
+  summary: <ul class="resume-item-list"><li>spring MVC패턴</li><li>DispatcherServlet을 사용한 단일이입점 구성</li><li>의존성주입Dependency Injection를 통한 빈 생성으로 클레스간의 의존성 제거 및 레이어간의 디커플링완성?</li><li>AOP를 이용하여 비회원일경우 controller에 요청하기 전에 접근제한transaction처리)</li><li>Presentation-logic과 business logic을 분리하여 개발</li><li>J-uint사용한 테스트코드 작성 및 유닛테스트</li><li>mybatis를 통해 SQL문을 XML로 관리</li></ul>
   img:   
   skills: <span>html/css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>ES6</span><span>java</span><span>JSTL</span><span>spring</span><span>Annotation</span><span>AOP</span><span>EL</span><span>Oracle</span><span>mybatis</span><span>REST-API</span><span>REST-server</span>
 
 - project:  
   role: ● fly asina
   duration: 2015.11-2016.2
-  description: # 포트폴리오용으로 만든 디자이너에서 UI개발로 첫발돋음한 사이트
+  description: HTML5 sementic 마크업, CSS3를 사용하여 트  # 포트폴리오용으로 만든 디자이너에서 UI개발로 첫발돋음한 사이트
   summary: <ul class="resume-item-list"><li>html5시멘틱 마크업 사용, 웹표준과 웹접근성을 준수한 마크업</li><li>다양한 기기별로 정보전달에 용의하게 하기위해 media query를 사용하여 PC, tablet, mobile반응형으로 제작</li><li>banner-sliding, modal, layer-popup등의 UI인터렉션을 플러그인을 사용하지 않고 직접 jquery와 javascript로 제작</li></ul>
   img: <img src="./images/fly_2.png"/><img src="./images/kwah.png"/>
   skills: <span>html/css</span><span>javascript</span><span>jquery</span><span>media-query</span><span>php</span>
@@ -166,21 +176,21 @@
 
 
   #########
-- project: UI/UX Design
-  role:   
-  duration: 
-  description: <br/><br/>
-  summary: 
-  img: 
-  skills:
+# - project: UI/UX Design
+#   role:   
+#   duration: 
+#   description: <br/><br/>
+#   summary: 
+#   img: 
+#   skills:
 
-- project:  
-  role:  #● GUI guide line 제작
-  duration:  
-  description: 
-  summary: <ul class="resume-item-list"><li>HD-프로그램들의 디자인 통일성을 위해 GUI guideline을 제작하였습니다.</li></ul>
-  img: <img src="./images/hdicon.jpg"/><img src="./images/hdicon_ex.jpg"/>
-  skills:  
+# - project:  
+#   role:  #● GUI guide line 제작
+#   duration:  
+#   description: 
+#   summary: <ul class="resume-item-list"><li>HD-프로그램들의 디자인 통일성을 위해 GUI guideline을 제작하였습니다.</li></ul>
+#   img: <img src="./images/hdicon.jpg"/><img src="./images/hdicon_ex.jpg"/>
+#   skills:  
 
 
   # 디자인학과로 대학교에 진학하였으나, 진로에 고민하던도중 웹에이젼시의 디자이너로 일하게 되었고, 웹개발에 흥미를 느껴
@@ -194,3 +204,7 @@
   # 3년간 일하게 되었습니다.
   # 무언가 만드는 일에 집중하고 탐구하는 일이 적성에 맞다고 생각하며, 사용자들이 어떻게하면 좀더 편리하게 웹을 사용할수 있을지 고민합니다.
   # ###디자인 능력도 살려서 일을 할 수있고, 분야를 좋아합니다.
+
+  # 신입이랑, 경력자에게 기대하는 사항이 다르다 ..
+  # 경력이면 아무래도 리더십과 기획능력?
+  # 관리자로 올라가는? 

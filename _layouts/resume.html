@@ -107,7 +107,7 @@
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.role }} {% if project.duration %}  &bull;  {{project.duration }}{%else%} {%endif%}</h4>
       
-          <p class="resume-item-copy">{{ project.description }}</p> 
+          {%if project.description %} <p class="resume-item-copy"> {{ project.description }} <br/><br/></p> {%else%} {%endif%}
           {%if project.img%}<div class="img-wrap"> {{project.img}} <div>{%else%} {%endif%}
           <p class="resume-item-copy">{{ project.summary }}</p>
           {%if project.skills%}<p class="skills-wrap"> {{project.skills}} </p> {%else%} {%endif%}
