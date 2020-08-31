@@ -20,14 +20,14 @@
   duration: 2018
   description: 100개가 넘는 가공기를 한눈에 보고싶다는 요청 그리고 해당가공기를 실제 현장과 같은 위치의 화면에서 보여주는게 목적이였습니다. 클릭했을때 UI의 크기조절 및 배치기능을 하는 페이지를 만들게 되었습니다
   summary: <ul class="resume-item-list"><li>jQueryUi를 사용해 드레그 이벤트, 드레그중일때 이벤트, 드롭다운 이벤트를 잡아서 각 이벤트에 따른 필요한 기능들을 구현하였습니다.</li><li>드롭다운시 해당공간에 갯수만큼의 공간이 존재해야 놓을수있음을 알려주는 파란색의 그림자 ui가보이게 되도록 구현하였습니다.</li><li>jqueryUI를 사용해 여러대의 가공기를 드래그앤 드랍하여 가공기배치가 가능합니다.</li><li>ajax요청으로 RESTAPI 데이터를받아 작업하였습니다.</li><li>화면설계 및 디자인, 프론트엔드100%</li></ul>
-  img: <img src="./images/sf_b_1.jpg"/><img src="./images/sf_b.jpg"/><img src="./images/sf_b_2.jpg"/>  
+  img: <img src="./images/sf_b_0.png"/><img src="./images/sf_b_1.jpg"/><img src="./images/sf_b.jpg"/><img src="./images/sf_b_2.jpg"/>  
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>.net</span><span>asp</span>
 
 - project:  
   role: ● 메인 옵션창 추가 (부가기능 추가)
   duration: 2018
   description: 메인화면의 가공기상태 확인페이지에서 가공기의 세부정보 (피드,rpm등)를 사용자가 선택해서 선택된항목만 화면에 노출시켜주는 기능을 추가하였습니다.
-  summary: <ul class="resume-item-list"><li>asp 템플릿 repeaterM를 만들어 추가, ascx.cs에서 만든 db를 repeaterM과 데이터바인딩</li><li>첫 화면 렌더링시 C#에서 js로 데이터 받아서 실행시켜주기 위해 ClientScriptManager를 사용</li></ul>
+  summary: <ul class="resume-item-list"><li> UI 디자인및 인터렉션 화면 제작</li><li>asp 템플릿 repeaterM를 만들어 추가, ascx.cs에서 만든 db를 repeaterM과 데이터바인딩 및 db변수항목 출력</li><li>첫 화면 렌더링시 C#에서 js로 데이터 받아서 실행시켜주기 위해 ClientScriptManager를 사용</li></ul>
   img: <img src="./images/sf_add.jpg"/> 
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>.net</span><span>asp</span><span>c#</span>
 
