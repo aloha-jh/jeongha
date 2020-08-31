@@ -51,7 +51,7 @@
 - project:   
   role: ● saewoung
   duration: 2016.10 
-  description:  
+  description: 금형을 제작하기 위해 필요한 여러가지 공정과정들을 계획하고 관리하는 프로그램 입니다. 제품및 주문정보, BOM(Bill of Material), 생산계획관리, 외주/소재/구매, 비용분석, 데시보드 페이지로 이루어져 있습니다.
   summary: <ul class="resume-item-list"><li>디자인, 프론트엔드개발100%</li><li><a href="https://drive.google.com/file/d/1jQb8GT6Wef5YR9SF_2NqcRjmrdWlQWzr/view?usp=sharing" target="_black">사용자 메뉴얼</a></li></ul>
   img: <img src="./images/dashboard.jpg"/><img src="./images/cost.png"/> 
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>D3.js</span><span>ajax</span> <span>django</span><span>swagger</span><span>python</span>
@@ -59,8 +59,8 @@
 - project:   
   role: ● handoc
   duration: 2017
-  description: 금형및 수주정보, 금형제작일정표, 설계일정표, BOM,생산CAPA관리, 비용계획표, 기준정보관리 페이지로 이루어져 있습니다. #금형및 수주정보페이지에서 데이터를 입력하여 의뢰받은 금형정보를 입력합니다. 제작일정표 페이지에서는 제작일정을 작업자들끼리 공유함으로써, 다음 금형작업자가 일정을 잡습니다.
-  summary: <ul class="resume-item-list"><li>생산capa 페이지의 frontend작업을 맡아, ajax를 호출하여 받은 데이터를 변환과정을 거쳐 화면에 넣어주는 작업을 처리하였습니다.</li><li>화면 디자인, 퍼블리싱, 프론트엔드 작업(생산CAPA관리, 기준정보관리) 100%</li><li><a href="https://drive.google.com/file/d/1A0Hja5biLPcfF8kAx5wpeUbxW5HQKTs7/view?usp=sharing" target="_black">기획안</a></li> </ul>
+  description: 금형및 수주정보, 금형제작일정표, 설계일정표, BOM, 생산CAPA관리, 비용계획표, 기준정보관리 페이지로 이루어져 있습니다. #금형및 수주정보페이지에서 데이터를 입력하여 의뢰받은 금형정보를 입력합니다. 제작일정표 페이지에서는 제작일정을 작업자들끼리 공유함으로써, 다음 금형작업자가 일정을 잡습니다.
+  summary: <ul class="resume-item-list"><li>생산capa 페이지의 frontend작업을 맡아, ajax를 호출하여 받은 데이터를 변환과정을 거쳐 화면에 넣어주는 작업을 처리하였습니다.</li><li>화면 디자인, 퍼블리싱, 프론트엔드 작업(생산CAPA관리, 기준정보관리) 100%</li>L<li>생산capa페이지의 경우 일자별로 계획기관과 실적기관이 일치하는지 계산하여 각 셀에 색상표시</li><li><a href="https://drive.google.com/file/d/1A0Hja5biLPcfF8kAx5wpeUbxW5HQKTs7/view?usp=sharing" target="_black">기획안</a></li> </ul>
   img: <img src="./images/bom_3.png"/><img src="./images/handoc_1.png"/><img src="./images/info_after.png"/><img src="./images/capa.png"/>
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>django</span><span>swagger</span><span>python</span>
   #<img src="./images/info_before.png"/>
@@ -69,7 +69,7 @@
 - project:   
   role: ● package
   duration: 2017
-  description: 클라우드 서비스 목적으로 기획했던, 에임스오피스 패키지 프로젝트 입니다. 파일공유, 채팅기능이 메인인 작업자용 페이지, 작업자의 스케줄을 관리하는 관리자용 페이지가 있습니다.
+  description: 클라우드 서비스 목적으로 기획했던, 에임스오피스 패키지 프로젝트 입니다.  업체에 필요한 기능들을 넣기위해 업체인터뷰를 통해 고객들의 요구사항을 파악하여 진행되었습니다. 작업자의 요구사항으로는 CAD,CAM의 설계도면의 공유와 지시사항을 서면이 아닌 여러가지 방법으로 효율적으로 전달해 받기를 원했습니다. 관리자 요구사항으로는 해당 금형제작건의 진행사항, 현재상태 정보등을 알기를 윈했고, 업무 능률성 향상을 위한 작업자들의 진행현황을 보고, 유연한대처가 가능한 스케줄관리 기능을 원했습니다. 따라서 파일공유, 채팅기능이 메인인 작업자용 페이지, 작업자의 스케줄을 관리하는 관리자용 페이지로 시안을 기획 디자인하게 되었습니다. 
   summary: <ul class="resume-item-list"><li>기획 및 화면구성에 참여</li><li>화면구성(시안도출) 및 디자인 100%</li></ul>
   img: <img src="./images/worker.png"/><img src="./images/manager.jpg"/> 
   skills:  
@@ -88,7 +88,7 @@
   duration: 2019
   description: 금형회사의 스케줄관리 back officce프로그램, SAP 입니다. 기본적으로 프로젝트 일정등록, 수정, 삭제 기능이 있고 프로젝트일정에 원하는 구성원을 추가할수 있습니다. 결제승인을 서면으로 받지 않고 사장이 승인을 한 경우 바로 중간관리자가 확인할수 있는 기능등이 있습니다.
   summary: <ul class="resume-item-list"><li>slack-web-API를 사용해 결제승인요청 알람, 프로젝트에 지정된 여러사람들에게 알람기능 구현하였습니다.</li><li>(플러그인을 사용할경우 플러그인의기존 기능에 전부 커스터마이징이 필요할 것으로 판단되어)별도의 스케줄러(달력) 플러그인 없이, API로 json데이터를 받아 일정들을 연결해서 쏘팅하고, 스케줄러달력을 보여주는 부분까지 직접 구현하였습니다.</li><li>기획서의 내용대로 구현하려면 일정클릭이벤트, 일자 클릭이벤트가 서로 클릭영역이 겹치는 문제가 있었는데, 일자클릭 이벤트를 클릭하는 위치값으로 해당일자를 알아내어 처리함으로써 기획서대로 구현할 수 있었습니다.</li><li>pc,mobile 두가지 버전으로 만들어 졌습니다.</li><li>화면디자인, 프론트엔드 개발 100%</li><li class="no-print"><a href="https://drive.google.com/file/d/1--l4liMWGgBYi3Xl0iIMaIrkeV_xfDdl/view?usp=sharing" target="_black" >HD-Scheduler 사용자 메뉴얼</a></li></ul>
-  img: <img src="./images/Scheduler.jpg"/>  
+  img: <img src="./images/Scheduler.jpg"/><img src="./images/mark_up.png"/>
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>django</span><span>slack-API</span><span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
   #<ul class="resume-item-list"><li>사용자간의 알림의 경우 핸드폰에 slack앱을 설치하여 slackAPI연동을 통해 스케줄완료를 클릭할경우 사용자가 설정해놓은 팀 또는 해당스케줄의 참여자들에게 알림이 가게 구현되었습니다</li><li>slack web api를 사용하여 결제승인을 서면으로 받지 않고 사장이 승인을 한 경우 바로 중간관리자가 확인할수 있는 기능을 추가하였습니다.</li><li>이미업로드되어 있는 파일을 관리자가 스케줄에 등록하여 나머지 사람들은해당 스케줄에 연관된 파일을 볼수 있는 기능등이 있습니다.</li></ul><li>개발완료후 업체방문 및 교육까지 완료 하였습니다.</li>
 
@@ -101,6 +101,7 @@
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>django</span><span>slack-API</span><span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
   
 
+ 
   #########
 - project: 
   role:   
@@ -118,13 +119,13 @@
   img: 
   skills: 
     
-- project:  
+- project: round-bird github
   role: ● Round bird
   duration: 2020.6-현재
   description: 일상 사진, 글을 공유하는 SNS web application, SPA입니다.
-  summary: <ul class="resume-item-list"><li>React를 적용하여 virtualDOM을 사용함으로써 app의 성능 향상시킨 SPA 구현</li><li>React의 Component형식의 UI구성으로 재사용성과 유지보수 향상</li><li>React-redux, redux-saga로 비동기API요청처리와 효율적인 중앙 state 관리</li><li>SSR을 위한 frontend-server Next.js 적용</li><li>Next.js의 자동 코드 스플리팅 적용으로 빠른 페이지 로드</li><li>SSR을 통해초기렌더링 딜레이 단축</li><li>frontend-server와 backend-server를 나눠서 개발함으로써 DB확장성 증가</li><li>babel을 사용하여 crossbrowsing 문제를 해결</li><li>request, response과정에서 express의 웹 취약성으로부터 헤더보안설정을 위해 helmet사용함으로써 보안성 향상</li><li>사용패키지-material-ui, nodemon, axios, bcrypt, cors, dotenv, express-session, cookie-parser, morgan, multer, passport</li></ul>
+  summary: <ul class="resume-item-list"><li>React를 적용하여 virtualDOM을 사용함으로써 app의 성능 향상시킨 SPA 구현</li><li>React의 Component형식의 UI구성으로 재사용성과 유지보수 향상</li><li>React-redux, redux-saga로 비동기API요청처리와 효율적인 중앙 state 관리</li><li>SSR을 위한 frontend-server Next.js 적용</li><li>Next.js의 자동 코드 스플리팅 적용으로 빠른 페이지 로드</li><li>SSR을 통해초기렌더링 딜레이 단축</li><li>frontend-server와 backend-server를 나눠서 개발함으로써 DB확장성 증가</li><li>babel을 사용하여 crossbrowsing 문제를 해결</li><li>request, response과정에서 express의 웹 취약성으로부터 헤더보안설정을 위해 helmet사용함으로써 보안성 향상</li><li>사용패키지:material-ui, nodemon, axios, bcrypt, cors, dotenv, express-session, cookie-parser, morgan, multer, passport</li><li>https://github.com/aloha-jh/round-bird</li></ul>
   img:  <img src="./images/round_bd_db.png"/>  
-  url: https://github.com/aloha-jh/round-bird
+  url: #https://github.com/aloha-jh/round-bird
   skills: <span>ES6</span><span>JSX</span><span>react</span><span>react-redux</span><span>redux-saga</span><span>webpack</span><span>babel</span><span>nextjs</span><span>express</span><span>sequelize</span><span>mysql</span><span>npm</span>
 # <span>ES6</span><span>JSX</span><span>react</span><span>react-redux</span><span>redux-saga</span><span>webpack</span><span>babel</span><span>nextjs</span><span>express</span><span>material-ui</span><span>nodemon</span><span>sequelize</span><span>mysql</span><span>npm</span><span>axios</span><span>bcrypt</span><span>cors</span><span>dotenv</span><span>express-session</span><span>cookie-parser</span><span>morgan</span><span>multer</span><span>passport</span>
 
@@ -146,22 +147,37 @@
   skills: <span>html/css</span><span>javascript</span><span>jquery</span><span>media-query</span><span>php</span>
 
 
- 
-
-- project: Presentation
+- project:
   role:   
   duration: 
-  description:  
+  description: <br/><br/>
   summary: 
   img: 
   skills: 
     
-- project:  
+- project: Presentation
   role: ● Google Cloud Platform
   duration:  
-  description: Google Cloud Platform 참석후 정보 전달을 위해 만들었습니다.
-  summary: <ul class="resume-item-list"><li><a href="https://drive.google.com/file/d/1EovRjJUjB_A9lt3UWTnp2L8_ujlNQo6c/view?usp=sharing" target="_black">GCP</li></ul>
+  description: GCP 참석후 정보 전달을 위해 만들었습니다.
+  summary: <ul class="resume-item-list"><li><a href="https://drive.google.com/file/d/1EovRjJUjB_A9lt3UWTnp2L8_ujlNQo6c/view?usp=sharing" target="_black">GCP(Google Cloud Platform)</a></li></ul>
   img:   
-  url: https://github.com/aloha-jh/round-bird
+  url: 
   skills: 
 
+
+  #########
+- project: UI/UX Design
+  role:   
+  duration: 
+  description: <br/><br/>
+  summary: 
+  img: 
+  skills:
+
+- project:  
+  role:  #● GUI guide line 제작
+  duration:  
+  description: 
+  summary: <ul class="resume-item-list"><li>HD-프로그램들의 디자인 통일성을 위해 GUI guideline을 제작하였습니다.</li></ul>
+  img:   
+  skills:  
