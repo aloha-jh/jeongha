@@ -144,7 +144,7 @@
   role: ● spring mvc shop
   duration: 2020.3-2020.6
   description: spring framework를 사용, MVC패턴이 적용된 상품등록 및 주문 하는 쇼핑몰 web application 입니다.
-  summary: <ul class="resume-item-list"><li>spring MVC패턴</li><li>DispatcherServlet을 사용한 단일이입점 구성</li><li>의존성주입Dependency Injection를 통한 빈 생성으로 클레스간의 의존성 제거 및 레이어간의 디커플링완성?</li><li>AOP를 이용하여 비회원일경우 controller에 요청하기 전에 접근제한transaction처리)</li><li>Presentation-logic과 business logic을 분리하여 개발</li><li>J-uint사용한 테스트코드 작성 및 유닛테스트</li><li>mybatis를 통해 SQL문을 XML로 관리</li></ul>
+  summary: <ul class="resume-item-list"><li>spring MVC패턴</li><li>DispatcherServlet을 사용한 단일이입점 구성</li><li>의존성주입Dependency Injection를 통한 빈 생성으로 클레스간의 의존성 제거 및 레이어간의 디커플링</li><li>AOP를 이용하여 비회원일경우 controller에 요청하기 전에 접근제한transaction처리)</li><li>Presentation-logic과 business logic을 분리하여 개발</li><li>J-uint사용한 테스트코드 작성 및 유닛테스트</li><li>mybatis를 통해 SQL문을 XML로 관리</li></ul>
   img:   
   skills: <span>html/css</span><span>javascript</span><span>jquery</span><span>ajax</span><span>ES6</span><span>java</span><span>JSTL</span><span>spring</span><span>Annotation</span><span>AOP</span><span>EL</span><span>Oracle</span><span>mybatis</span><span>REST-API</span><span>REST-server</span>
 
