@@ -62,7 +62,7 @@
   role: ● saewoung
   duration: 2016.8
   description: 금형을 제작하기 위해 필요한 여러가지 공정과정들을 계획하고 관리하는 프로그램 입니다. 제품및 주문정보, BOM(Bill of Material), 생산계획관리, 외주/소재/구매, 비용분석, 데시보드 페이지로 이루어져 있습니다.
-  summary: <ul class="resume-item-list"><li>데시보드페이지 - jQuery drag and drop 기능으로 각판넬을 윈하는 위치로 이동가능하게 제작. 레이아웃으로 주제가 비슷한 내용을 하나의 판넬로 구성.</li><li>비용분석페이지 - 계획비용, 실적비용(수주가 대비실제이익), 수주가를  D3.js를 사용 바 그래프(svg)로 표현. 계획비용과 실적비용부분은 각 세부항목에 대한 비율을 D3.js를 이용 pie-chart(svg)로 표현.</li><li>화면구성(시안도출) 및 디자인, 프론트엔드개발100%</li><li><a href="https://drive.google.com/file/d/1jQb8GT6Wef5YR9SF_2NqcRjmrdWlQWzr/view?usp=sharing" target="_black">사용자 메뉴얼</a></li></ul>
+  summary: <ul class="resume-item-list"><li>데시보드페이지 - jQuery drag and drop 기능으로 각판넬을 윈하는 위치로 이동가능하게 제작. 레이아웃으로 주제가 비슷한 내용을 하나의 판넬로 구성.</li><li>비용분석페이지 - 계획비용, 실적비용(수주가 대비실제이익), 수주가를  D3.js를 사용 바 그래프(svg)로 표현. 계획비용과 실적비용부분은 각 세부항목에 대한 비율을 D3.js를 이용 pie-chart(svg)로 표현.</li><li>화면구성(시안도출) 및 디자인, 프론트엔드개발100%</li></ul>
   img: <img src="./images/dashboard.jpg"/><img src="./images/cost_full.jpg"/> 
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>D3.js</span><span>ajax</span> <span>django</span><span>swagger</span><span>python</span>
 
