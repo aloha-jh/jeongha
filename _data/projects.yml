@@ -70,7 +70,7 @@
   role: ● handoc
   duration: 2017
   description: 금형및 수주정보, 금형제작일정표, 설계일정표, BOM, 생산CAPA관리, 비용계획표, 기준정보관리 페이지로 이루어져 있습니다. <br/>금형및 수주정보페이지에서 데이터를 입력하여 의뢰받은 금형정보를 입력합니다. 제작일정표 페이지에서는 제작일정을 작업자들끼리 공유함으로써, 다음 금형작업자가 일정을 잡습니다.
-  summary: <ul class="resume-item-list"><li>생산capa 페이지의 frontend작업을 맡아, ajax를 호출하여 받은 데이터를 변환과정을 거쳐 화면에 넣어주는 작업을 처리하였습니다.</li><li>화면 디자인, 퍼블리싱, 프론트엔드 작업(생산CAPA관리, 기준정보관리) 100%</li><li>생산capa페이지의 경우 일자별로 계획기관과 실적기관이 일치하는지 계산하여 각 셀에 색상표시</li><li>성능측정 및 분석으로 렌더링과정 개선, 로딩시간 단축 및 최적화</li><li><a href="https://drive.google.com/file/d/1A0Hja5biLPcfF8kAx5wpeUbxW5HQKTs7/view?usp=sharing" target="_black">기획안</a></li> </ul>
+  summary: <ul class="resume-item-list"><li>생산capa 페이지의 frontend작업을 맡아, ajax를 호출하여 받은 데이터를 변환과정을 거쳐 화면에 넣어주는 작업을 처리하였습니다.</li><li>화면 디자인, 퍼블리싱, 프론트엔드 작업(생산CAPA관리, 기준정보관리) 100%</li><li>생산capa페이지의 경우 일자별로 계획기관과 실적기관이 일치하는지 계산하여 각 셀에 색상표시</li><li>성능측정 및 분석으로 렌더링과정 개선, 로딩시간 단축 및 최적화</li></ul>
   img: <img src="./images/bom_3.png"/><img src="./images/handoc_1.png"/><img src="./images/info_after.png"/><img src="./images/capa.png"/>
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>django</span><span>swagger</span><span>python</span>
   #<img src="./images/info_before.png"/>
