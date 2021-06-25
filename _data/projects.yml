@@ -1,3 +1,15 @@
+  
+  
+ 
+  #########
+- project: <br/> 한국델켐 <hr/>
+  role:   
+  duration: 
+  description: #설명
+  summary: 
+  img: 
+  skills: 
+  
   #shopfloor
 - project: AIMS-Shopfloor
   role: Adaptive & Intelligent Manufacturing Solution
@@ -110,7 +122,52 @@
   img: <img src="./images/grey4.jpg"/>  
   skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>swagger</span><span>django</span><span>slack-API</span><span>python</span><span>mongoDB</span><span>mongoose</span><span>radis</span>
   
+  
 
+   #########
+- project: <br/> 시큐레터 <hr/>
+  role:   
+  duration: 
+  description: #설명
+  summary: 
+  img: 
+  skills: 
+
+- project:  
+  role:  ● Mars V2.5
+  duration: 2019
+  description: 악성메일 차단 솔루션 (장비상태 모니터링, 악성메일 로그) UI/UX 리뉴얼
+  summary: <ul class="resume-item-list"><li>디자인 시안 수정 및 정리</li><li>마크업 설계 및 퍼블리싱</li><li>hbs 데이터 바인딩 및 in output 처리</li><li>express 프론트엔드 서버 router, middleware 개발</li><li>passport를 적용하여 인증 session관리, 타임아웃 설정 등</li><li>프로젝트 리더로 개발 참여</li></ul>
+  img: <img src="./images/mars_1.jpg"/><img src="./images/mars_2.jpg"/>  
+  skills: <span>html</span><span>css</span><span>javascript</span><span>jQuery</span><span>ajax</span><span>D3.js</span><span>nodejs</span><span>express</span>
+  
+
+
+   #########
+- project: <br/> 이투스 교육 <hr/>
+  role:   
+  duration: 
+  description: #설명
+  summary: 
+  img: 
+  skills: 
+
+- project:  
+  role:  slider(carousel) 기능구현
+  duration: 2021.6
+  description: vanilla javascript로 구현된 UI 인터렉션 slider 입니다
+  summary:  <ul class="resume-item-list"><li>퍼포먼스향상 측면에서 리렌더링을 방지하기 위해 width, height 대신 trasition을 사용</li><li> 페이지 내 여러 배너를 사용할수 있게 인스턴스화 시켜서 사용하도록 개발</li><li>마크업 설계, 퍼블리싱, javascript 100%</li><li>https://github.com/aloha-jh/slide</li></ul>
+  img: <img src="./images/slider_1.png"/> 
+  skills: <span>html</span><span>css</span><span>javascript</span>
+  
+- project:  
+  role:  event - 템플릿화
+  duration: 2021.6 ~
+  description: 
+  summary:  <ul class="resume-item-list"><li>webpack 개발환경 구축 (loader, module)</li></ul>
+  img: 
+  skills: <span>html</span><span>css</span><span>javascript</span><span>nodejs</span><span>webpack</span><span>vuejs</span>
+  
  
   #########
 - project: 
@@ -131,7 +188,7 @@
     
 - project: 
   role: ● Round bird
-  duration: 2020.6-현재
+  duration: 2020.6-2020.9
   description: 일상 사진, 글을 공유하는 SNS web application, SPA입니다.
   summary: <ul class="resume-item-list"><li>React를 적용하여 virtualDOM을 사용함으로써 app의 성능 향상시킨 SPA 구현</li><li>React의 Component형식의 UI구성으로 재사용성과 유지보수 향상</li><li>React-redux, redux-saga로 비동기API요청처리와 효율적인 중앙 state 관리</li><li>SSR을 위한 frontend-server Next.js 적용</li><li>Next.js의 자동 코드 스플리팅 적용으로 빠른 페이지 로드</li><li>SSR을 통해초기렌더링 딜레이 단축</li><li>frontend-server와 backend-server를 나눠서 개발함으로써 DB확장성 증가</li><li>babel을 사용하여 crossbrowsing 문제를 해결</li><li>request, response과정에서 express의 웹 취약성으로부터 헤더보안설정을 위해 helmet사용함으로써 보안성 향상</li><li>사용패키지:material-ui, nodemon, axios, bcrypt, cors, dotenv, express-session, cookie-parser, morgan, multer, passport</li><li>https://github.com/aloha-jh/round-bird</li></ul>
   img:  <img src="./images/round_bd_db.png"/>  
